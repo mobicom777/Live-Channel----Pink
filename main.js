@@ -15,5 +15,5 @@
 myPlayer = amp("azuremediaplayer", myOptions);
 
 myPlayer.src([
-    { src: "http://mobicom.streaming.mediaservices.windows.net/8d842291-3599-4d36-87fc-f2f34ece2d4e/d6cc5050-3613-46b9-a98a-46ea91cda061.ism/manifest", type: "application/vnd.ms-sstr+xml", streamingFormats: ["SMOOTH", "HLS","HLS-V3", "HLS-V4"]}, 
+    { src: "http://mobicom.streaming.mediaservices.windows.net/3e7cfaf6-597d-405a-a29a-e2a5f69e1e2b/Paya Seetha Raye - Vijaya Kumarathunga.ism/manifest", type: "application/vnd.ms-sstr+xml", streamingFormats: ["SMOOTH", "HLS","HLS-V3", "HLS-V4"]}, 
 ]);
